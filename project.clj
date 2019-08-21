@@ -1,4 +1,4 @@
-(defproject postcode-spec "0.2.0"
+(defproject postcode-spec "0.2.1-SNAPSHOT"
   :description "Generating and validating UK postcodes"
   :url "https://github.com/codeasone/postcode-spec"
   :license {:name "Eclipse Public License"
